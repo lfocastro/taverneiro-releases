@@ -1,7 +1,7 @@
-# TBH Helper — Releases
+# Taverneiro — Releases
 
-Baixe o **TBHHelper.exe** na aba [Releases](https://github.com/lfocastro/tbh-helper-releases/releases/latest).
+Baixe o **Taverneiro.exe** na aba [Releases](https://github.com/lfocastro/taverneiro-releases/releases/latest) — o companheiro de modo ao vivo da **Taverna do Herói** ([tbhhelper.vercel.app](https://tbhhelper.vercel.app/live)), fan tool de Taskbar Hero.
 
-Companheiro do [tbhhelper.vercel.app](https://tbhhelper.vercel.app/live): vigia o save do Taskbar Hero (somente leitura) e deixa o site atualizar sozinho. Guia completo: [tbhhelper.vercel.app/live](https://tbhhelper.vercel.app/live).
+Ele vigia o save do jogo (somente leitura, nada sai do seu PC) e deixa o site atualizar sozinho. Guia completo: [tbhhelper.vercel.app/live](https://tbhhelper.vercel.app/live).
 
 Ferramenta de fã, não-oficial.
