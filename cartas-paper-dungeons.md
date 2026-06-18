@@ -9,9 +9,30 @@
 > - **Os três números na base** (azul / laranja / vermelho) representam três níveis/tiers de dificuldade.
 > - **Badge `×2`**: a carta possui o indicador de multiplicador/duplicidade no canto superior direito.
 
+> **Persistência (para outra sessão):** as fotos originais estão salvas na pasta
+> [`imagens/`](imagens/) deste repositório e referenciadas em cada seção abaixo.
+> Como cada sessão começa de um clone novo do repositório, este arquivo + a pasta
+> `imagens/` contêm **tudo** o que foi registrado — basta abrir este documento.
+
+### Índice de imagens
+
+| # | Arquivo | Conteúdo |
+|---|---------|----------|
+| 1 | [`imagens/imagem-01-monstros-frente.jpg`](imagens/imagem-01-monstros-frente.jpg) | 12 cartas de monstro (frente) |
+| 2 | [`imagens/imagem-02-grades-masmorra.jpg`](imagens/imagem-02-grades-masmorra.jpg) | 12 cartas de grade/masmorra |
+| 3 | [`imagens/imagem-03-tabuleiro-jogador.jpg`](imagens/imagem-03-tabuleiro-jogador.jpg) | Tabuleiro do jogador |
+| 4 | [`imagens/imagem-04-objetivos-visao-geral.jpg`](imagens/imagem-04-objetivos-visao-geral.jpg) | 16 cartas de objetivo (visão geral) |
+| 5 | [`imagens/imagem-05-objetivos-closeup.jpg`](imagens/imagem-05-objetivos-closeup.jpg) | 4 cartas de objetivo (close-up) |
+| 6 | [`imagens/imagem-06-primeiro-jogador-visao-geral.jpg`](imagens/imagem-06-primeiro-jogador-visao-geral.jpg) | 16 cartas "1º Jogador A…" |
+| 7 | [`imagens/imagem-07-herois-visao-geral.jpg`](imagens/imagem-07-herois-visao-geral.jpg) | 16 cartas de herói/classe |
+| 8 | [`imagens/imagem-08-saqueador-closeup.jpg`](imagens/imagem-08-saqueador-closeup.jpg) | Close-up: Saqueador |
+| 9 | [`imagens/imagem-09-assassino-closeup.jpg`](imagens/imagem-09-assassino-closeup.jpg) | Close-up: Assassino |
+
 ---
 
 ## Imagem 1 — Cartas de Monstro (frente) — 12 cartas
+
+![Imagem 1 — Cartas de monstro (frente)](imagens/imagem-01-monstros-frente.jpg)
 
 Dispostas em 4 colunas × 3 linhas.
 
@@ -126,6 +147,8 @@ Dispostas em 4 colunas × 3 linhas.
 
 ## Imagem 2 — Cartas de Grade/Masmorra (12 cartas)
 
+![Imagem 2 — Cartas de grade/masmorra](imagens/imagem-02-grades-masmorra.jpg)
+
 Doze cartas com uma grade quadrada (estilo masmorra) e alguns marcadores
 coloridos (amarelo / verde / vermelho / azul) posicionados em células
 específicas — provavelmente o layout de surgimento/movimento de cada monstro.
@@ -155,6 +178,8 @@ específicas — provavelmente o layout de surgimento/movimento de cada monstro.
 
 ## Imagem 3 — Tabuleiro do Jogador (folha de masmorra)
 
+![Imagem 3 — Tabuleiro do jogador](imagens/imagem-03-tabuleiro-jogador.jpg)
+
 Folha principal do jogador de **Paper Dungeons** ("PAPER DUNGEONS" impresso no topo).
 
 Elementos identificados:
@@ -177,6 +202,8 @@ Elementos identificados:
 
 ## Imagem 4 — Cartas de Objetivo (visão geral) — 16 cartas
 
+![Imagem 4 — Cartas de objetivo (visão geral)](imagens/imagem-04-objetivos-visao-geral.jpg)
+
 Conjunto de 16 cartas de objetivo, dispostas em 4 colunas × 4 linhas.
 Todas seguem o formato:
 
@@ -192,6 +219,8 @@ Cada carta concede **2 / 4 / 6 pontos** conforme o jogador atinge o
 ---
 
 ## Imagem 5 — Cartas de Objetivo (close-up) — 4 cartas legíveis
+
+![Imagem 5 — Cartas de objetivo (close-up)](imagens/imagem-05-objetivos-closeup.jpg)
 
 #### Objetivo A — Itens Mágicos
 - Recompensa: **2 / 4 / 6**
@@ -216,6 +245,8 @@ Cada carta concede **2 / 4 / 6 pontos** conforme o jogador atinge o
 ---
 
 ## Imagem 6 — Cartas "1º Jogador A…" (visão geral) — 16 cartas
+
+![Imagem 6 — Cartas "1º Jogador A…"](imagens/imagem-06-primeiro-jogador-visao-geral.jpg)
 
 Conjunto de 16 cartas de feito/conquista, dispostas em 4 colunas × 4 linhas.
 Todas seguem o formato:
@@ -253,6 +284,8 @@ Leituras parciais (foto de conjunto, texto pequeno — `(?)` = aproximado):
 
 ## Imagem 7 — Cartas de Herói / Classe (visão geral) — 16 cartas
 
+![Imagem 7 — Cartas de herói/classe](imagens/imagem-07-herois-visao-geral.jpg)
+
 Conjunto de 16 cartas de herói (borda azul), dispostas em 4 colunas × 4 linhas.
 Cada carta tem: **nome** (topo), um **ícone/efeito**, um **texto de habilidade**
 e um **badge** (escudo) no canto inferior direito — vermelho (valores negativos,
@@ -280,12 +313,18 @@ Leituras (texto pequeno na foto de conjunto — `(?)` = aproximado):
 | 16 | 4/4 | Patrulheiro | Receba [pergaminho] extra quando … (?) | 🔴 -1 |
 
 ### Imagem 8 — Close-up: Saqueador
+
+![Imagem 8 — Close-up Saqueador](imagens/imagem-08-saqueador-closeup.jpg)
+
 - Nome: **Saqueador**
 - Ícone: gema com "?"
 - Habilidade: **"Escolha e colete 1 Gema de qualquer letra em sua Masmorra.
   Outros jogadores poderão coletar aquela Gema durante a partida."**
 
 ### Imagem 9 — Close-up: Assassino
+
+![Imagem 9 — Close-up Assassino](imagens/imagem-09-assassino-closeup.jpg)
+
 - Nome: **Assassino**
 - Ícone: rosto de lacaio · marcador **2×**
 - Habilidade: **"Derrote quaisquer 2 Lacaios em sua Masmorra ao início da partida."**
