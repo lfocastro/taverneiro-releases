@@ -175,6 +175,82 @@ Elementos identificados:
 
 ---
 
+## Imagem 4 — Cartas de Objetivo (visão geral) — 16 cartas
+
+Conjunto de 16 cartas de objetivo, dispostas em 4 colunas × 4 linhas.
+Todas seguem o formato:
+
+> **RECEBA `2`, `4` OU `6` SE VOCÊ … (condição com três limiares).**
+
+Cada carta concede **2 / 4 / 6 pontos** conforme o jogador atinge o
+1º, 2º ou 3º limiar da condição. No rodapé há ícones de recursos.
+
+> **Observação:** nesta foto de conjunto a maioria dos textos está pequena
+> e ilegível. As 4 cartas lidas com confiança estão na **Imagem 5** abaixo.
+> As demais 12 cartas ficam pendentes de foto mais nítida.
+
+---
+
+## Imagem 5 — Cartas de Objetivo (close-up) — 4 cartas legíveis
+
+#### Objetivo A — Itens Mágicos
+- Recompensa: **2 / 4 / 6**
+- Condição: **SE VOCÊ COMPLETOU 2, 4 OU 7+ ITENS MÁGICOS**
+- Limiares: 2 itens → 2 pts · 4 itens → 4 pts · 7+ itens → 6 pts
+
+#### Objetivo B — Salas dos Cantos
+- Recompensa: **2 / 4 / 6**
+- Condição: **SE VOCÊ EXPLOROU 1, 2 OU 3+ SALAS DOS CANTOS**
+- Limiares: 1 sala → 2 pts · 2 salas → 4 pts · 3+ salas → 6 pts
+
+#### Objetivo C — Heróis no Nível 5
+- Recompensa: **2 / 4 / 6**
+- Condição: **SE SEU GRUPO POSSUIR 2, 3 OU 4 HERÓIS NO NÍVEL 5**
+- Limiares: 2 heróis → 2 pts · 3 heróis → 4 pts · 4 heróis → 6 pts
+
+#### Objetivo D — Salas nas Bordas
+- Recompensa: **2 / 4 / 6**
+- Condição: **SE VOCÊ EXPLOROU 10, 13 OU 16+ SALAS NAS BORDAS**
+- Limiares: 10 salas → 2 pts · 13 salas → 4 pts · 16+ salas → 6 pts
+
+---
+
+## Imagem 6 — Cartas "1º Jogador A…" (visão geral) — 16 cartas
+
+Conjunto de 16 cartas de feito/conquista, dispostas em 4 colunas × 4 linhas.
+Todas seguem o formato:
+
+> **1º JOGADOR A … (cumprir determinado feito).**
+
+Cada carta possui uma fita/medalha e vale **4 pontos** (badge `4`) para o
+**primeiro jogador** que cumprir a condição.
+
+Leituras parciais (foto de conjunto, texto pequeno — `(?)` = aproximado):
+
+| Posição | Linha/Col | Condição (parcial) |
+|---------|-----------|--------------------|
+| 01 | 1/1 | 1º a DERROTAR a … (?) |
+| 02 | 1/2 | 1º a COLETAR 4 … (?) |
+| 03 | 1/3 | 1º a ALCANÇAR nível 12 (?) |
+| 04 | 1/4 | 1º a EVOLUIR … (?) |
+| 05 | 2/1 | 1º a ATRAVESSAR … (?) |
+| 06 | 2/2 | 1º a ALCANÇAR 8 … (?) |
+| 07 | 2/3 | 1º a COMPLETAR … item mágico (?) |
+| 08 | 2/4 | 1º a DERROTAR … (?) |
+| 09 | 3/1 | 1º a EVOLUIR … (?) |
+| 10 | 3/2 | 1º a EXPLORAR … salas (?) |
+| 11 | 3/3 | 1º a EVOLUIR TODOS … (?) |
+| 12 | 3/4 | 1º a EVOLUIR … (?) |
+| 13 | 4/1 | 1º a EXPLORAR TODAS … (?) |
+| 14 | 4/2 | 1º a EXPLORAR TODAS … salas (?) |
+| 15 | 4/3 | 1º a EXPLORAR … salas (?) |
+| 16 | 4/4 | 1º a EXPLORAR … (?) |
+
+> **Observação:** todas as condições acima precisam de fotos mais próximas
+> para leitura confiável (como foi feito na Imagem 5).
+
+---
+
 ## Pendências / Para refinar
 
 - Confirmar dígitos exatos das cartas de monstro (foto mais nítida por carta).
@@ -182,3 +258,5 @@ Elementos identificados:
 - Capturar os ícones extras no canto superior das cartas de monstro
   (ataques/habilidades especiais), que não estão legíveis na foto atual.
 - Detalhar os valores exatos das trilhas do tabuleiro (Imagem 3).
+- Ler as **12 cartas de objetivo restantes** (Imagem 4) com fotos mais próximas.
+- Ler as **16 cartas "1º Jogador A…"** (Imagem 6) com fotos mais próximas.
