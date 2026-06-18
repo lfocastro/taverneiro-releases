@@ -251,6 +251,47 @@ Leituras parciais (foto de conjunto, texto pequeno — `(?)` = aproximado):
 
 ---
 
+## Imagem 7 — Cartas de Herói / Classe (visão geral) — 16 cartas
+
+Conjunto de 16 cartas de herói (borda azul), dispostas em 4 colunas × 4 linhas.
+Cada carta tem: **nome** (topo), um **ícone/efeito**, um **texto de habilidade**
+e um **badge** (escudo) no canto inferior direito — vermelho (valores negativos,
+ex.: -1, -2, -3) ou amarelo/dourado (valores positivos).
+
+Leituras (texto pequeno na foto de conjunto — `(?)` = aproximado):
+
+| Posição | Linha/Col | Herói | Habilidade / Ícone | Badge |
+|---------|-----------|-------|--------------------|-------|
+| 01 | 1/1 | Mercador | Receba [moeda] quando você coletar [gema] | 🔴 -1 |
+| 02 | 1/2 | Veterano | ícone seta verde · 2× | 🔴 -3 |
+| 03 | 1/3 | Artesão | ícone item · 2× | 🔴 -3 |
+| 04 | 1/4 | Ladino | Receba [moeda] para cada 3 [inimigos] que você derrotar | 🔴 -2 |
+| 05 | 2/1 | Assassino | 2× — ver close-up (Imagem 9) | 🟡 (?) |
+| 06 | 2/2 | Nobre | Receba [moeda] quando você evoluir algum herói ao nível 5 | 🔴 -1 |
+| 07 | 2/3 | Saqueador | ver close-up (Imagem 8) | 🟡 (?) |
+| 08 | 2/4 | Xamã | Receba [moeda] para cada 3 [inimigos] que você derrotar | 🟡 3 |
+| 09 | 3/1 | Sanguinário | ícone dragão · +2 | 🟡 -2 (?) |
+| 10 | 3/2 | Bárbaro | ícone dragão · [coração] | 🟡 -2 (?) |
+| 11 | 3/3 | Psiônico | 1× / rodada | 🟡 (?) |
+| 12 | 3/4 | Curandeiro | ícone poção · 2× | 🟡 (?) |
+| 13 | 4/1 | Vidente | ícone caveira/pergaminho | 🟡 2 |
+| 14 | 4/2 | Alquimista | Receba extra sempre que usar [pergaminho] ao preparar | 🟡 (?) |
+| 15 | 4/3 | Batedor | ícone flechas · [coração] | 🔴 -2 (?) |
+| 16 | 4/4 | Patrulheiro | Receba [pergaminho] extra quando … (?) | 🔴 -1 |
+
+### Imagem 8 — Close-up: Saqueador
+- Nome: **Saqueador**
+- Ícone: gema com "?"
+- Habilidade: **"Escolha e colete 1 Gema de qualquer letra em sua Masmorra.
+  Outros jogadores poderão coletar aquela Gema durante a partida."**
+
+### Imagem 9 — Close-up: Assassino
+- Nome: **Assassino**
+- Ícone: rosto de lacaio · marcador **2×**
+- Habilidade: **"Derrote quaisquer 2 Lacaios em sua Masmorra ao início da partida."**
+
+---
+
 ## Pendências / Para refinar
 
 - Confirmar dígitos exatos das cartas de monstro (foto mais nítida por carta).
@@ -260,3 +301,4 @@ Leituras parciais (foto de conjunto, texto pequeno — `(?)` = aproximado):
 - Detalhar os valores exatos das trilhas do tabuleiro (Imagem 3).
 - Ler as **12 cartas de objetivo restantes** (Imagem 4) com fotos mais próximas.
 - Ler as **16 cartas "1º Jogador A…"** (Imagem 6) com fotos mais próximas.
+- Confirmar badges e habilidades das **cartas de Herói** (Imagem 7) com close-ups.
